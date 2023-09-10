@@ -14,7 +14,7 @@ const (
 
 // openssl
 const (
-	OpenSSLVersion           = "1.1.1t"
+	OpenSSLVersion           = "1.1.1v"
 	OpenSSLDownloadURLPrefix = "https://www.openssl.org/source"
 )
 
@@ -26,7 +26,7 @@ const (
 
 // zlib
 const (
-	ZlibVersion           = "1.2.13"
+	ZlibVersion           = "1.3"
 	ZlibDownloadURLPrefix = "https://zlib.net"
 )
 
